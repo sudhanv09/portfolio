@@ -7,12 +7,19 @@ export default function Intro() {
           <p class="w-1/2 mt-16">
             Hi, I am Sudhanv. I am a web developer teaching myself to learn and
             explore new things. I am proficient in Python, C# and frontend
-            technologies like React. 
+            technologies like React.
             <br />
             <br />
             Besides web development, I also like to play around
             with Deep learning, Computer vision and Robotics.
           </p>
+          <br />
+          <div class="flex justify-between items-center w-96">
+            <a href="https://github.com/sudhanv09"><img src="github.svg" alt="github" /></a>
+            <a href="https://www.linkedin.com/in/sudhanv-apte-144719171/"><img src="linkedin.svg" alt="linkedin" /></a>
+            <a href="mailto:sudhanv.apte@gmail.com"><img src="mail.svg" alt="gmail" /></a>
+            <a href="resume.pdf" target="_blank" class="bg-green-500 rounded-md p-4">Resume</a>
+          </div>
         </div>
         <img
           src="profile.jpg"
@@ -21,12 +28,12 @@ export default function Intro() {
           class="rounded-md mr-16 "
         />
       </div>
-      
-      <hr class="w-48 h-1 m-12 border-0 rounded bg-gradient-to-r from-yellow-200 via-green-200 to-green-500" />
 
-      <div class="p-8">
-        <h1 class="text-2xl font-semibold">Technologies</h1>
-        <div class="grid lg:grid-cols-4 grid-cols-1 p-4 gap-y-4">
+      <hr class="w-48 h-1 m-8 border-0 rounded bg-gradient-to-r from-yellow-200 via-green-200 to-green-500" />
+
+      <div class="ml-8">
+        <h1 class="text-3xl font-semibold p-4">Technologies</h1>
+        <div class="grid lg:grid-cols-4 grid-cols-1 p-4 gap-y-8">
           <img src="c-sharp.png" alt="csharp" width="100px" />
           <img src="python.png" alt="python" width="100px" />
           <img src="js.png" alt="js" width="100px" />

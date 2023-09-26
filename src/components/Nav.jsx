@@ -9,7 +9,6 @@ export default function Nav() {
         <a href="#Intro">Home</a>
         <a href="#projects">Projects</a>
         <a href="#education">Education</a>
-        <a href="#contact">Contact</a>
       </ul>
     </nav>
   );
