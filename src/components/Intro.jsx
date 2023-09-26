@@ -1,6 +1,6 @@
 export default function Intro() {
   return (
-    <section id="Intro" class="h-screen m-8">
+    <section id="Intro" class="m-8">
       <div class="flex justify-center items-center">
         <div class="w-1/2">
           <h1 class="text-5xl font-bold">Sudhanv Apte</h1>
@@ -18,7 +18,7 @@ export default function Intro() {
             <a href="https://github.com/sudhanv09"><img src="github.svg" alt="github" /></a>
             <a href="https://www.linkedin.com/in/sudhanv-apte-144719171/"><img src="linkedin.svg" alt="linkedin" /></a>
             <a href="mailto:sudhanv.apte@gmail.com"><img src="mail.svg" alt="gmail" /></a>
-            <a href="resume.pdf" target="_blank" class="bg-green-500 rounded-md p-4">Resume</a>
+            <a href="resume.pdf" target="_blank" class="bg-green-500 rounded-md p-4 text-white hover:shadow-lg hover:-translate-y-1">Resume</a>
           </div>
         </div>
         <img

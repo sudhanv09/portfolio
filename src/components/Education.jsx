@@ -1,15 +1,15 @@
 export default function Education() {
   return (
-    <section id="education" class="m-16">
+    <section id="education" class="m-8">
       <hr class="w-48 h-1 m-8 border-0 rounded bg-gradient-to-r from-yellow-200 via-green-200 to-green-500" />
-      <h1 class="text-3xl font-semibold">Education</h1>
+      <h1 class="text-3xl font-semibold mx-8">Education</h1>
 
       <div class="mt-8 p-8">
         <ol class="border-l border-neutral-300 dark:border-neutral-500">
           <li>
             <div class="flex-start flex items-center pt-3">
               <div
-                class="-ml-[5px] mr-3 h-[9px] w-[9px] rounded-full bg-neutral-300 dark:bg-neutral-500"></div>
+                class="-ml-[5px] mr-3 h-[9px] w-[9px] rounded-full bg-green-500"></div>
               <p class="text-sm ">
                 30.06.2023
               </p>
@@ -28,7 +28,7 @@ export default function Education() {
           <li>
             <div class="flex-start flex items-center pt-2">
               <div
-                class="-ml-[5px] mr-3 h-[9px] w-[9px] rounded-full bg-neutral-300 dark:bg-neutral-500"></div>
+                class="-ml-[5px] mr-3 h-[9px] w-[9px] rounded-full bg-green-500 "></div>
               <p class="text-sm ">
                 01.06.2021
               </p>
@@ -46,7 +46,7 @@ export default function Education() {
           <li>
             <div class="flex-start flex items-center pt-2">
               <div
-                class="-ml-[5px] mr-3 h-[9px] w-[9px] rounded-full bg-neutral-300 dark:bg-neutral-500"></div>
+                class="-ml-[5px] mr-3 h-[9px] w-[9px] rounded-full bg-green-500 "></div>
               <p class="text-sm">
                 01.04.2017
               </p>
