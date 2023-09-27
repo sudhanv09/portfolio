@@ -1,10 +1,10 @@
 export default function Intro() {
   return (
     <section id="Intro" class="m-8">
-      <div class="flex justify-center items-center">
+      <div class="text-left flex flex-col lg:flex-row lg:justify-center lg:items-center">
         <div class="w-1/2">
           <h1 class="text-5xl font-bold">Sudhanv Apte</h1>
-          <p class="w-1/2 mt-16">
+          <p class="lg:w-1/2 mt-16">
             Hi, I am Sudhanv. I am a web developer teaching myself to learn and
             explore new things. I am proficient in Python, C# and frontend
             technologies like React.
@@ -14,7 +14,7 @@ export default function Intro() {
             with Deep learning, Computer vision and Robotics.
           </p>
           <br />
-          <div class="flex justify-between items-center w-96">
+          <div class="flex justify-between items-center w-96 p-4">
             <a href="https://github.com/sudhanv09"><img src="github.svg" alt="github" /></a>
             <a href="https://www.linkedin.com/in/sudhanv-apte-144719171/"><img src="linkedin.svg" alt="linkedin" /></a>
             <a href="mailto:sudhanv.apte@gmail.com"><img src="mail.svg" alt="gmail" /></a>
