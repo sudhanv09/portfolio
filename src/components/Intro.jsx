@@ -40,6 +40,7 @@ export default function Intro() {
           <img src="science.png" alt="react" width="100px" />
           <img src="linux.png" alt="linux" width="100px" />
           <img src="docker.png" alt="docker" width="100px" />
+          <img src="postgres.svg" alt="postgres" width="100px" />
         </div>
       </div>
     </section>
