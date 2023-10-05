@@ -10,7 +10,7 @@ export default function Projects() {
       <div class="grid gap-8 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 lg:m-8">
         <Card name="TimeKeeper" desc="A simple time management app written in C# and React" link="https://github.com/sudhanv09/TimeKeeper" />
         <Card name="Katalogue" desc="Webapp to read epubs, track progress and search for book metadata" link="https://github.com/sudhanv09/katalogue" />
-        <Card name="PMC" desc="CLI app to watch on-device videos and sync them to Trakt" link="https://github.com/sudhanv09/pmc" />
+        <Card name="rd-client" desc="CLI app to capture magnet links from clipboard, upload them to Real-Debrid and get download links" link="https://github.com/sudhanv09/go-debrid" />
         <Card name="Frontend-stuff" desc="A collection of various frontend-only apps made with SolidJs" link="https://github.com/sudhanv09/plexi" />
         <Card name="Cryptowatcher" desc="A simple interface to track crypto prices. Made with Coingecko api and SolidJs" link="https://github.com/sudhanv09/cryptowatcher" />
       </div>

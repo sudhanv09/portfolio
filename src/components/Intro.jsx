@@ -6,12 +6,10 @@ export default function Intro() {
           <h1 class="text-5xl font-bold">Sudhanv Apte</h1>
           <p class="lg:w-1/2 mt-16">
             Hi, I am Sudhanv. I am a web developer teaching myself to learn and
-            explore new things. I am proficient in Python, C# and frontend
-            technologies like React.
+            explore new things. I am proficient in Python, C# and building responsive, user-friendly frontend using React.
             <br />
             <br />
-            Besides web development, I also like to play around
-            with Deep learning, Computer vision and Robotics.
+            Besides web development, I am also interested in Computer vision and Robotics.
           </p>
           <br />
           <div class="flex justify-between items-center w-96 p-4">
@@ -36,6 +34,7 @@ export default function Intro() {
         <div class="grid lg:grid-cols-4 grid-cols-1 p-4 gap-y-8">
           <img src="c-sharp.png" alt="csharp" width="100px" />
           <img src="python.png" alt="python" width="100px" />
+          <img src="go.svg" alt="golang" width="100px" />
           <img src="js.png" alt="js" width="100px" />
           <img src="science.png" alt="react" width="100px" />
           <img src="linux.png" alt="linux" width="100px" />
