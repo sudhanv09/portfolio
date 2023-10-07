@@ -11,7 +11,7 @@ export default function Projects() {
         <Card name="TimeKeeper" desc="A simple time management app written in C# and React" link="https://github.com/sudhanv09/TimeKeeper" />
         <Card name="Katalogue" desc="Webapp to read epubs, track progress and search for book metadata" link="https://github.com/sudhanv09/katalogue" />
         <Card name="rd-client" desc="CLI app to capture magnet links from clipboard, upload them to Real-Debrid and get download links" link="https://github.com/sudhanv09/go-debrid" />
-        <Card name="Frontend-stuff" desc="A collection of various frontend-only apps made with SolidJs" link="https://github.com/sudhanv09/plexi" />
+        <!--Card name="Frontend-stuff" desc="A collection of various frontend-only apps made with SolidJs" link="https://github.com/sudhanv09/plexi" />
         <Card name="Cryptowatcher" desc="A simple interface to track crypto prices. Made with Coingecko api and SolidJs" link="https://github.com/sudhanv09/cryptowatcher" />
       </div>
     </section>
